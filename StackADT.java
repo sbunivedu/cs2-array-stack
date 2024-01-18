@@ -1,9 +1,3 @@
-/**
- * Defines the interface to a stack collection.
- *
- * @author Lewis and Chase
- * @version 4.0
- */
 public interface StackADT<T>
 {
   /**

@@ -1,12 +1,5 @@
 import java.util.Arrays;
 
-/**
- * An array implementation of a stack in which the bottom of the
- * stack is fixed at index 0.
- *
- * @author Lewis and Chase
- * @version 4.0
- */
 public class ArrayStack<T> implements StackADT<T>
 {
   private final static int DEFAULT_CAPACITY = 100;
